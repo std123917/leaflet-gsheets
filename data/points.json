@@ -48,4 +48,11 @@
    "location": "Barcelona",
    "level": "Local"
  }
+ {
+   "lat": 35,
+   "long": -63,
+   "category": "Coffee Shop",
+   "location": "Barcelona",
+   "level": "Local"
+ }
 ]
